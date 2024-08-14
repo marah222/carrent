@@ -1,16 +1,5 @@
-# carrent
+# Rentapp
 
-A new Flutter project.
+This project is a car rental application developed using Flutter, Firebase, Bloc, and Clean Architecture. It integrates openstreet Maps for enhanced functionality and user experience. The application provides a seamless and intuitive interface for users to book and manage car rentals. It can also be adapted for use in other rental service applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Full tutorial on youtube here]([docs/CONTRIBUTING.md](https://youtu.be/RKrWgdCUP1U))
